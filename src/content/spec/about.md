@@ -1,9 +1,15 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+Yuve（徐思远）
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+自 2020 年起开始使用 DAW 进行独立创作，并于 2022 年发布首支原创单曲。
+
+​2023 年起就读于日本昭和音乐大学声音创作专业，系统学习作编曲、和声写作以及录音技术。
+
+创作风格涵盖抒情流行、影像配乐与二次元偶像系，擅长旋律构写与情绪营造，注重声音与画面、氛围之间的联动与叙事张力。
+
+​同时专注于 Max/MSP 等声音程序工具进行创意声音设计与实时交互音响构建，尝试将音乐创作延展至动态空间、游戏环境与视听交互场域中，拓宽声音在叙事与感知层面的可能性。
+
+我相信旋律拥有构建空间的能力，每一首作品都是一个可被感知的情绪场域，承载想象，也传递生活中的真相。
+
+欢迎你聆听我的声音世界
